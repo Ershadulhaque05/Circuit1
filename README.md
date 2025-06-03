@@ -1,0 +1,1 @@
+NEQR based image representation 
